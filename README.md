@@ -1,0 +1,2 @@
+# jstest
+remote js access
